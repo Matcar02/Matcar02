@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, thanks for visiting my profile! 👋
+#### A little bit about me:
+
+- 🔭 I’m currently pursuing a bachelor in Management & Computer Science focused on data and business analytics
+- 🌱 I’m currently learning ... as much as possible about AI! with the fast AI advancements we are seeing, there's always something new to dive into!
+- 📫 How to reach me: https://www.linkedin.com/in/matteo-carucci/
+- ⚡ Fun fact: Likely that the jobs we're planning to do won't exist in a while... yet, so exciting! 
 
 <!--
 **Matcar02/Matcar02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
